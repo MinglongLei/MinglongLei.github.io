@@ -1,7 +1,7 @@
 ---
 title:          "Self-supervised knowledge distillation for complementary label learning"
 date:           2022-11-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Neural Networks"
 pub_date:       "2022"
 
