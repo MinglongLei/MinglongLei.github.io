@@ -8,8 +8,8 @@ num_selected: 10
 
 {% include widgets/url_debug_message.html %}
 
-{% if site.data.display.homepage.show_experience %}
-{% include widgets/experience_card.html %}
+{% if site.data.display.homepage.show_students %}
+{% include widgets/students_card.html %}
 {% endif %}
 
 {% if site.data.display.homepage.show_news %}
@@ -24,6 +24,11 @@ num_selected: 10
 {% 
     include widgets/publication_card.html 
     publications=pubs limit=page.num_selected 
-    title='<i class="fas fa-star"></i> Selected Publications'
+    title='<i class="fas fa-book"></i> Selected Publications'
 %}
 {% endif %}
+
+{% if site.data.display.homepage.show_services %}
+{% include widgets/services_card.html %}
+{% endif %}
+
