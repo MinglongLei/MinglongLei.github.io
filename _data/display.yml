@@ -1,4 +1,5 @@
 homepage:
+  show_students: true
   show_selected_publications: true
   show_services: true
 
