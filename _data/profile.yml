@@ -19,28 +19,13 @@ gscholar: https://scholar.google.com/citations?user=JTFDgGUAAAAJ&hl=zh-CN
 orcid: 0000-0003-4406-8747
 
 short_bio: >-
-  I am currently an associate professor at the Beijing University of Technology. My research interests include graph machine learning, spatio-temporal analysis, and representation learning.  
+  I am currently an associate professor at the Beijing University of Technology. I received my Ph.D. degree in computer science at the University of Chinese Academy of Sciences, advised by Professor Yong Shi. My research interests include graph machine learning, spatio-temporal analysis, and representation learning. 
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
-
-education:
-- name: University of Chinese Academy of Sciences
-  logo: /assets/images/badges/CAS.jpg
-  position: Ph.D. in Computer Science and Technology
-  date: Sep. 2016 - Jul. 2019
-  #position: B.S. in Computer Science
-  #date: Sep. 2017 - Jul. 2021
-
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
 
-# awards:
+Journal Services:
 # - name: Award Name 2
 #   date: 2024
 # - name: Award Name 1 
