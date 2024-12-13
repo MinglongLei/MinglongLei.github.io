@@ -4,11 +4,8 @@
         {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-book"></i> Selected Publications{% endif %} 
         <a href="{{ 'publications' | relative_url }}"><i class="fas fa-arrow-circle-right"></i> View All <i class="fas fa-arrow-circle-right"></i></a>
     </h6>
-    {% for item in publications limit:include.limit %}
+    {% for item in publications %}
         {% include widgets/publication_item.html item=item %}    
     {% endfor %}
-    <h6 class="d-block p-3 mt-0 text-right">
-        <a href="{{ 'publications' | relative_url }}">All Publications <i class="fas fa-angle-double-right"></i></a>
-    </h6>
 </div>
 
