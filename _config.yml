@@ -35,5 +35,6 @@ plugins:
 # timezone: Asia/Shanghai
 
 collections:
+  - students
   - publications
   - services
