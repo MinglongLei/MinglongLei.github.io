@@ -1,7 +1,7 @@
 ---
 title:          "A unified pre-training and adaptation framework for combinatorial optimization on graphs"
 date:           2023-12-14 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Science China Mathematics"
 pub_date:       "2023"
 
