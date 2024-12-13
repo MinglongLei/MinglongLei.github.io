@@ -35,8 +35,8 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .cover-image {
-    width: 180px;
-    max-height: 120px;
+    width: 150px;
+    max-height: 100px;
 }
 
 .abstract-body {
@@ -52,7 +52,7 @@ img.lazy {
 }
 
 .badge-publication {
-    font-size: 200%;
+    font-size: 100%;
 }
 
 .email-text {
