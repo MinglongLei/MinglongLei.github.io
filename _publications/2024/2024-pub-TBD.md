@@ -2,7 +2,7 @@
 title:          "Spatio-Temporal Transformer Network for Weather Forecasting"
 date:           2024-03-19 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Big Data"
+pub:            "IEEE Transactions on Big Data (TBD 2024)"
 pub_date:       "2024"
 
 
