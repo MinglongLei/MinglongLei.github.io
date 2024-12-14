@@ -11,7 +11,7 @@
         {%- endif -%}
             <h6 class="mt-0 mb-1 font-weight-Normal">{{ item.title }}</h6>
             <p class="mt-0 mb-0">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0">{{item.pub_pre}}<i>{{ item.pub }}</i> <i><b>{{ item.pub_abb }}</b></i> {{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
+            <p class="mt-0 mb-0">{{item.pub_pre}}<i>{{ item.pub }}</i> <font color="#313B3E"><i><b>{{ item.pub_abb }}</b></i></font> {,} {{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
             <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
@@ -39,7 +39,7 @@
         <div>
             <h6 class="mt-0 mb-1 font-weight-Normal">{{ item.title }}</h6>
             <p class="mt-0 mb-0">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0">{{item.pub_pre}}<i>{{ item.pub }}</i> <i><b>{{ item.pub_abb }}</b></i> {{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
+            <p class="mt-0 mb-0">{{item.pub_pre}}<i>{{ item.pub }}</i> <font color="#313B3E"><i><b>{{ item.pub_abb }}</b></i></font> {,} {{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
             <p class="mt-0 mb-0 small text-muted d-none d-sm-block">{{ item.abstract }}</p>
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
