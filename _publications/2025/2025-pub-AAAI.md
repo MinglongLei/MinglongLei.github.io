@@ -1,10 +1,9 @@
 ---
 title:          "Decomposed Spatio-Temporal Mamba for Long-Term Traffic Prediction"
-date:           2024-12-10 00:01:00 +0800
+date:           2025-03-01 00:01:00 +0800
 selected:       true
-pub:            "The 39th AAAI Conference on Artificial Intelligence (AAAI 2025)"
-pub_abb:        "AAAI 2025"
-pub_date:       "2025"
+pub:            "The 39th AAAI Conference on Artificial Intelligence"
+pub_abb:        "(AAAI 2025)"
 
 
 authors:

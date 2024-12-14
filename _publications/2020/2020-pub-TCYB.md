@@ -3,6 +3,7 @@ title:          "DigGCN: Learning Compact Graph Convolutional Networks via Diffu
 date:           2020-05-18 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Cybernetics"
+pub_abb:        "(IEEE TCYB)"
 pub_date:       "2020"
 
 
