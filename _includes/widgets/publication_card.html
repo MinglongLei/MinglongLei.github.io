@@ -2,7 +2,7 @@
 <div class="my-3 p-0 bg-white shadow-sm rounded-sm">
     <h5 class="border-bottom border-gray p-3 mb-0">
         {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-book"></i> Selected Publications{% endif %} 
-        <a href="{{ 'publications' | relative_url }}"><i class="fas fa-arrow-circle-right"></i> <small>View All</small> <i class="fas fa-arrow-circle-right"></i></a>
+        <a href="{{ 'publications' | relative_url }}"><small><i class="fas fa-arrow-circle-right"></i> View All <i class="fas fa-arrow-circle-right"></i></small></a>
     </h5>
     {% for item in publications %}
         {% include widgets/publication_item.html item=item %}    
