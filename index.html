@@ -7,10 +7,6 @@ navbar_title: Home
 
 {% include widgets/url_debug_message.html %}
 
-{% if site.data.display.homepage.show_students %}
-{% include widgets/students_card.html %}
-{% endif %}
-
 {% if site.data.display.homepage.show_selected_publications %}
 {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
 {% include widgets/publication_card.html 
@@ -21,4 +17,8 @@ navbar_title: Home
 
 {% if site.data.display.homepage.show_services %}
 {% include widgets/services_card.html %}
+{% endif %}
+
+{% if site.data.display.homepage.show_students %}
+{% include widgets/students_card.html %}
 {% endif %}
