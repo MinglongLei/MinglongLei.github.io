@@ -1,7 +1,7 @@
 ---
 title:          "Exploring Brain Effective Connectivity Networks Through Spatiotemporal Graph Convolutional Models"
 date:           2022-11-10 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Transactions on Neural Networks and Learning Systems"
 pub_abb:        "(IEEE TNNLS)"
 pub_date:       "2022"
