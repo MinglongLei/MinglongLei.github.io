@@ -13,7 +13,7 @@ authors:
   - Yi Lin
   - Zipei Fan
   - Minglong Lei
-  - Yagiong Liu
+  - Yaqiong Liu
   - Shuai Ma
   - Jingping Bi
 ---
