@@ -14,7 +14,4 @@ authors:
   - Muhua Wang
   - Wei Tang
 
-links:
-  Paper: https://ieeexplore.ieee.org/document/10473200
-  DOI: https://doi.org/10.1109/TBDATA.2024.3378061
 ---

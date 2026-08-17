@@ -12,7 +12,4 @@ authors:
   - Minglong Lei#
   - Yong Shi
 
-links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0893608022003148
-  DOI: https://doi.org/10.1016/j.neunet.2022.08.014
 ---

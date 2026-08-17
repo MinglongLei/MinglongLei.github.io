@@ -11,7 +11,4 @@ authors:
   - Lingfeng Niu
   - Minglong Lei#
 
-links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0020025523014627
-  DOI: https://doi.org/10.1016/j.ins.2023.119877
 ---

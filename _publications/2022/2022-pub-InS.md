@@ -11,7 +11,4 @@ authors:
   - Yating Ren
   - Minglong Lei#
 
-links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0020025522007307
-  DOI: https://doi.org/10.1016/j.ins.2022.07.041
 ---

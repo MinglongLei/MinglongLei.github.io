@@ -11,7 +11,4 @@ authors:
   - Runfeng Zhao
   - Minglong Lei#
 
-links:
-  Paper: https://link.springer.com/article/10.1007/s00371-024-03396-1
-  DOI: https://doi.org/10.1007/s00371-024-03396-1
 ---

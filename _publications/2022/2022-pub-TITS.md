@@ -12,7 +12,4 @@ authors:
   - Fan Yu
   - Minglong Lei#
 
-links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/9945668
-  DOI: https://doi.org/10.1109/TITS.2022.3219626
 ---

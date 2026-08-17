@@ -11,7 +11,4 @@ authors:
   - Ye Liang
   - Minglong Lei#
 
-links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0893608021002756
-  DOI: https://doi.org/10.1016/j.neunet.2021.07.012
 ---

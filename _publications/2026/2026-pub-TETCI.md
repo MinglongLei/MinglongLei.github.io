@@ -12,8 +12,4 @@ authors:
   - Can Zhang
   - Hao Jia
   - Junzhong Ji
-
-links:
-  Paper: https
-  DOI: https
 ---

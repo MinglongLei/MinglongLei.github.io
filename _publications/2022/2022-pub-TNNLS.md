@@ -13,8 +13,4 @@ authors:
   - Minglong Lei
   - Jinduo Liu
   - Yongduan Song
-
-links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/9955408
-  DOI: https://doi.org/10.1109/TNNLS.2022.3221617
 ---

@@ -12,7 +12,4 @@ authors:
   - Lingfeng Niu*
   - Lan Cheng
 
-links:
-  Paper: https://link.springer.com/article/10.1007/s11425-023-2247-0
-  DOI: https://doi.org/10.1007/s11425-023-2247-0
 ---

@@ -14,7 +14,4 @@ authors:
   - Minglong Lei
   - Lingfeng Niu
 
-links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/9761792
-  DOI: https://doi.org/10.1109/TCYB.2022.3164474
 ---

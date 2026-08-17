@@ -13,7 +13,4 @@ authors:
   - Yating Ren
   - Minglong Lei#
 
-links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10004646
-  DOI: https://doi.org/10.1109/TNSE.2022.3233479
 ---

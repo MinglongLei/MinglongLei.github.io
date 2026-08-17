@@ -13,7 +13,4 @@ authors:
   - Ling-Feng Niu
   - Yu-Hong Dai
 
-links:
-  Paper: https
-  DOI: https
 ---
